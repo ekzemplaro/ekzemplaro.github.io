@@ -3,10 +3,8 @@
 # sudo ufw status
 #
 git add --all
-git commit -m "Commit on Jan/16/2026 PM 17:34"
+git commit -m "Commit on Jan/16/2026 PM 17:45"
 #
-# git push -u origin master
-# git push origin HEAD:master
 git push
 #
 # sudo ufw enable
